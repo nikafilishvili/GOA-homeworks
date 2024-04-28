@@ -22,5 +22,6 @@ for i in range(num + 1):
 
 for i in range(51):
     print(i)
-    
+
 total = sum(range(51))
+print(total) 
