@@ -61,19 +61,3 @@
 
 # num_range()
 
-def sum_of_list(numbers):
-    total = 0
-    for number in numbers:
-        total += number
-    return total
-
-print(return)
-sum_of_list()
-
-
-def calculate_sum(numbers):
-    return sum(numbers)
-
-print(return)
-calculate_sum()
-
