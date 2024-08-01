@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    background: white;
+    font-family: 'PT Sans', sans-serif;
+  }
+  h2{
+    padding-top: 1.5rem;
+  }
+  a{
+    color: black;
+  }
+  a:hover{
+    color: red;
+    text-decoration: none;
+  }
+  .card{
+    border: 0.40rem white;
+    top: 10%;
+  }
+  .form-control{
+    background-color: white;
+    padding: 20px;
+    padding: 25px 15px;
+    margin-bottom: 1.3rem;
+  }
+  
+  .form-control:focus {
+  
+      color: black;
+      background-color: white;
+      border: 3px solid red;
+      outline: 0;
+      box-shadow: none;
+  
+  }
+  
+  .btn{
+    padding: 0.6rem 1.2rem;
+    background: red;
+    border: 2px solid red;
+  }
+  .btn-primary:hover {
+  
+      
+      background-color: red;
+      border-color: red;
+    transition: .3s;
+  
+  }
